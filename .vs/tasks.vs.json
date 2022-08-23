@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-jest.config",
+      "appliesTo": "jest.config.js",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-jest.config",
+      "appliesTo": "jest.config.js",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-AzureWebhook",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

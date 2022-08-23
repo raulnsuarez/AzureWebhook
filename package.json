@@ -3,11 +3,7 @@
   "version": "2.0.0",
   "main": "server.js",
   "license": "MIT",
-  "author": {
-    "name": "Pedro Henrique Souza Araujo",
-    "email": "pedroaraujo@pecege.com",
-    "url": "https://github.com/Ph-FMM"
-  },
+  "author": "Pedro Henrique Souza Araujo <pedroaraujo@pecege.com> (https://github.com/Ph-FMM)",
   "engines": {
     "node": "14.x"
   },
@@ -46,5 +42,14 @@
     "ts-jest": "^27.0.3",
     "ts-node-dev": "^1.1.6",
     "typescript": "^4.3.2"
-  }
+  },
+  "description": "[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)\r [![GitHub](https://img.shields.io/github/license/Ph-FMM/AzureWebhook)](LICENSE)\r ![GitHub](https://img.shields.io/github/workflow/status/Ph-FMM/AzureWebhook/Unit%20Tests)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulnsuarez/AzureWebhook.git"
+  },
+  "bugs": {
+    "url": "https://github.com/raulnsuarez/AzureWebhook/issues"
+  },
+  "homepage": "https://github.com/raulnsuarez/AzureWebhook#readme"
 }
